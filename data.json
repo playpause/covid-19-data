@@ -1,0 +1,5278 @@
+{
+  "Thailand": [
+    {
+      "date": "2020-02-01",
+      "newInfections": 19,
+      "cumulativeInfections": 113
+    },
+    {
+      "date": "2020-02-02",
+      "newInfections": 19,
+      "cumulativeInfections": 132
+    },
+    {
+      "date": "2020-02-03",
+      "newInfections": 19,
+      "cumulativeInfections": 151
+    },
+    {
+      "date": "2020-02-04",
+      "newInfections": 25,
+      "cumulativeInfections": 176
+    },
+    {
+      "date": "2020-02-05",
+      "newInfections": 25,
+      "cumulativeInfections": 201
+    },
+    {
+      "date": "2020-02-06",
+      "newInfections": 25,
+      "cumulativeInfections": 226
+    },
+    {
+      "date": "2020-02-07",
+      "newInfections": 25,
+      "cumulativeInfections": 251
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 32,
+      "cumulativeInfections": 283
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 32,
+      "cumulativeInfections": 315
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 32,
+      "cumulativeInfections": 347
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 33,
+      "cumulativeInfections": 380
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 33,
+      "cumulativeInfections": 413
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 33,
+      "cumulativeInfections": 446
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 33,
+      "cumulativeInfections": 479
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 33,
+      "cumulativeInfections": 512
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 34,
+      "cumulativeInfections": 546
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 35,
+      "cumulativeInfections": 581
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 35,
+      "cumulativeInfections": 616
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 35,
+      "cumulativeInfections": 651
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 35,
+      "cumulativeInfections": 686
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 35,
+      "cumulativeInfections": 721
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 35,
+      "cumulativeInfections": 756
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 35,
+      "cumulativeInfections": 791
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 35,
+      "cumulativeInfections": 826
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 37,
+      "cumulativeInfections": 863
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 40,
+      "cumulativeInfections": 903
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 40,
+      "cumulativeInfections": 943
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 41,
+      "cumulativeInfections": 984
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 42,
+      "cumulativeInfections": 1026
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 42,
+      "cumulativeInfections": 1068
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 43,
+      "cumulativeInfections": 1111
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 43,
+      "cumulativeInfections": 1154
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 43,
+      "cumulativeInfections": 1197
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 47,
+      "cumulativeInfections": 1244
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 48,
+      "cumulativeInfections": 1292
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 50,
+      "cumulativeInfections": 1342
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 50,
+      "cumulativeInfections": 1392
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 50,
+      "cumulativeInfections": 1442
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 53,
+      "cumulativeInfections": 1495
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 59,
+      "cumulativeInfections": 1554
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 70,
+      "cumulativeInfections": 1624
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 75,
+      "cumulativeInfections": 1699
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 82,
+      "cumulativeInfections": 1781
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 114,
+      "cumulativeInfections": 1895
+    }
+  ],
+  "Japan": [
+    {
+      "date": "2020-02-03",
+      "newInfections": 20,
+      "cumulativeInfections": 115
+    },
+    {
+      "date": "2020-02-04",
+      "newInfections": 22,
+      "cumulativeInfections": 137
+    },
+    {
+      "date": "2020-02-05",
+      "newInfections": 22,
+      "cumulativeInfections": 159
+    },
+    {
+      "date": "2020-02-06",
+      "newInfections": 45,
+      "cumulativeInfections": 204
+    },
+    {
+      "date": "2020-02-07",
+      "newInfections": 25,
+      "cumulativeInfections": 229
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 25,
+      "cumulativeInfections": 254
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 26,
+      "cumulativeInfections": 280
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 26,
+      "cumulativeInfections": 306
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 26,
+      "cumulativeInfections": 332
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 28,
+      "cumulativeInfections": 360
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 28,
+      "cumulativeInfections": 388
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 29,
+      "cumulativeInfections": 417
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 43,
+      "cumulativeInfections": 460
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 59,
+      "cumulativeInfections": 519
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 66,
+      "cumulativeInfections": 585
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 74,
+      "cumulativeInfections": 659
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 84,
+      "cumulativeInfections": 743
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 94,
+      "cumulativeInfections": 837
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 105,
+      "cumulativeInfections": 942
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 122,
+      "cumulativeInfections": 1064
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 147,
+      "cumulativeInfections": 1211
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 159,
+      "cumulativeInfections": 1370
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 170,
+      "cumulativeInfections": 1540
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 189,
+      "cumulativeInfections": 1729
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 214,
+      "cumulativeInfections": 1943
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 228,
+      "cumulativeInfections": 2171
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 241,
+      "cumulativeInfections": 2412
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 256,
+      "cumulativeInfections": 2668
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 274,
+      "cumulativeInfections": 2942
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 293,
+      "cumulativeInfections": 3235
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 331,
+      "cumulativeInfections": 3566
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 360,
+      "cumulativeInfections": 3926
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 420,
+      "cumulativeInfections": 4346
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 461,
+      "cumulativeInfections": 4807
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 502,
+      "cumulativeInfections": 5309
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 511,
+      "cumulativeInfections": 5820
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 581,
+      "cumulativeInfections": 6401
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 639,
+      "cumulativeInfections": 7040
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 639,
+      "cumulativeInfections": 7679
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 701,
+      "cumulativeInfections": 8380
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 773,
+      "cumulativeInfections": 9153
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 839,
+      "cumulativeInfections": 9992
+    }
+  ],
+  "Singapore": [
+    {
+      "date": "2020-02-03",
+      "newInfections": 18,
+      "cumulativeInfections": 105
+    },
+    {
+      "date": "2020-02-04",
+      "newInfections": 24,
+      "cumulativeInfections": 129
+    },
+    {
+      "date": "2020-02-05",
+      "newInfections": 28,
+      "cumulativeInfections": 157
+    },
+    {
+      "date": "2020-02-06",
+      "newInfections": 28,
+      "cumulativeInfections": 185
+    },
+    {
+      "date": "2020-02-07",
+      "newInfections": 30,
+      "cumulativeInfections": 215
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 33,
+      "cumulativeInfections": 248
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 40,
+      "cumulativeInfections": 288
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 45,
+      "cumulativeInfections": 333
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 47,
+      "cumulativeInfections": 380
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 50,
+      "cumulativeInfections": 430
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 58,
+      "cumulativeInfections": 488
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 67,
+      "cumulativeInfections": 555
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 72,
+      "cumulativeInfections": 627
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 75,
+      "cumulativeInfections": 702
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 77,
+      "cumulativeInfections": 779
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 81,
+      "cumulativeInfections": 860
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 84,
+      "cumulativeInfections": 944
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 84,
+      "cumulativeInfections": 1028
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 85,
+      "cumulativeInfections": 1113
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 85,
+      "cumulativeInfections": 1198
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 89,
+      "cumulativeInfections": 1287
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 89,
+      "cumulativeInfections": 1376
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 91,
+      "cumulativeInfections": 1467
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 93,
+      "cumulativeInfections": 1560
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 93,
+      "cumulativeInfections": 1653
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 93,
+      "cumulativeInfections": 1746
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 102,
+      "cumulativeInfections": 1848
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 106,
+      "cumulativeInfections": 1954
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 108,
+      "cumulativeInfections": 2062
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 110,
+      "cumulativeInfections": 2172
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 110,
+      "cumulativeInfections": 2282
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 117,
+      "cumulativeInfections": 2399
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 130,
+      "cumulativeInfections": 2529
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 138,
+      "cumulativeInfections": 2667
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 150,
+      "cumulativeInfections": 2817
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 150,
+      "cumulativeInfections": 2967
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 160,
+      "cumulativeInfections": 3127
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 178,
+      "cumulativeInfections": 3305
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 178,
+      "cumulativeInfections": 3483
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 200,
+      "cumulativeInfections": 3683
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 212,
+      "cumulativeInfections": 3895
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 226,
+      "cumulativeInfections": 4121
+    }
+  ],
+  "Malaysia": [
+    {
+      "date": "2020-02-07",
+      "newInfections": 12,
+      "cumulativeInfections": 108
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 16,
+      "cumulativeInfections": 124
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 16,
+      "cumulativeInfections": 140
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 18,
+      "cumulativeInfections": 158
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 18,
+      "cumulativeInfections": 176
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 18,
+      "cumulativeInfections": 194
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 19,
+      "cumulativeInfections": 213
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 19,
+      "cumulativeInfections": 232
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 22,
+      "cumulativeInfections": 254
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 22,
+      "cumulativeInfections": 276
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 22,
+      "cumulativeInfections": 298
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 22,
+      "cumulativeInfections": 320
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 22,
+      "cumulativeInfections": 342
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 22,
+      "cumulativeInfections": 364
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 22,
+      "cumulativeInfections": 386
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 22,
+      "cumulativeInfections": 408
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 22,
+      "cumulativeInfections": 430
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 22,
+      "cumulativeInfections": 452
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 22,
+      "cumulativeInfections": 474
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 22,
+      "cumulativeInfections": 496
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 23,
+      "cumulativeInfections": 519
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 23,
+      "cumulativeInfections": 542
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 25,
+      "cumulativeInfections": 567
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 29,
+      "cumulativeInfections": 596
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 29,
+      "cumulativeInfections": 625
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 36,
+      "cumulativeInfections": 661
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 50,
+      "cumulativeInfections": 711
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 50,
+      "cumulativeInfections": 761
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 83,
+      "cumulativeInfections": 844
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 93,
+      "cumulativeInfections": 937
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 99,
+      "cumulativeInfections": 1036
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 117,
+      "cumulativeInfections": 1153
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 129,
+      "cumulativeInfections": 1282
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 149,
+      "cumulativeInfections": 1431
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 149,
+      "cumulativeInfections": 1580
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 197,
+      "cumulativeInfections": 1777
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 238,
+      "cumulativeInfections": 2015
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 428,
+      "cumulativeInfections": 2443
+    }
+  ],
+  "Canada": [
+    {
+      "date": "2020-02-15",
+      "newInfections": 7,
+      "cumulativeInfections": 101
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 7,
+      "cumulativeInfections": 108
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 8,
+      "cumulativeInfections": 116
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 8,
+      "cumulativeInfections": 124
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 8,
+      "cumulativeInfections": 132
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 8,
+      "cumulativeInfections": 140
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 9,
+      "cumulativeInfections": 149
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 9,
+      "cumulativeInfections": 158
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 9,
+      "cumulativeInfections": 167
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 10,
+      "cumulativeInfections": 177
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 11,
+      "cumulativeInfections": 188
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 11,
+      "cumulativeInfections": 199
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 13,
+      "cumulativeInfections": 212
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 14,
+      "cumulativeInfections": 226
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 20,
+      "cumulativeInfections": 246
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 24,
+      "cumulativeInfections": 270
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 27,
+      "cumulativeInfections": 297
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 30,
+      "cumulativeInfections": 327
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 33,
+      "cumulativeInfections": 360
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 37,
+      "cumulativeInfections": 397
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 49,
+      "cumulativeInfections": 446
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 54,
+      "cumulativeInfections": 500
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 64,
+      "cumulativeInfections": 564
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 77,
+      "cumulativeInfections": 641
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 79,
+      "cumulativeInfections": 720
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 108,
+      "cumulativeInfections": 828
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 117,
+      "cumulativeInfections": 945
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 193,
+      "cumulativeInfections": 1138
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 198,
+      "cumulativeInfections": 1336
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 252,
+      "cumulativeInfections": 1588
+    }
+  ],
+  "Australia": [
+    {
+      "date": "2020-02-05",
+      "newInfections": 13,
+      "cumulativeInfections": 100
+    },
+    {
+      "date": "2020-02-06",
+      "newInfections": 14,
+      "cumulativeInfections": 114
+    },
+    {
+      "date": "2020-02-07",
+      "newInfections": 15,
+      "cumulativeInfections": 129
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 15,
+      "cumulativeInfections": 144
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 15,
+      "cumulativeInfections": 159
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 15,
+      "cumulativeInfections": 174
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 15,
+      "cumulativeInfections": 189
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 15,
+      "cumulativeInfections": 204
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 15,
+      "cumulativeInfections": 219
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 15,
+      "cumulativeInfections": 234
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 15,
+      "cumulativeInfections": 249
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 15,
+      "cumulativeInfections": 264
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 15,
+      "cumulativeInfections": 279
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 15,
+      "cumulativeInfections": 294
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 15,
+      "cumulativeInfections": 309
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 15,
+      "cumulativeInfections": 324
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 19,
+      "cumulativeInfections": 343
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 22,
+      "cumulativeInfections": 365
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 22,
+      "cumulativeInfections": 387
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 22,
+      "cumulativeInfections": 409
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 22,
+      "cumulativeInfections": 431
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 22,
+      "cumulativeInfections": 453
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 23,
+      "cumulativeInfections": 476
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 23,
+      "cumulativeInfections": 499
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 25,
+      "cumulativeInfections": 524
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 27,
+      "cumulativeInfections": 551
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 30,
+      "cumulativeInfections": 581
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 39,
+      "cumulativeInfections": 620
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 52,
+      "cumulativeInfections": 672
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 55,
+      "cumulativeInfections": 727
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 60,
+      "cumulativeInfections": 787
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 63,
+      "cumulativeInfections": 850
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 76,
+      "cumulativeInfections": 926
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 91,
+      "cumulativeInfections": 1017
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 107,
+      "cumulativeInfections": 1124
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 128,
+      "cumulativeInfections": 1252
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 128,
+      "cumulativeInfections": 1380
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 200,
+      "cumulativeInfections": 1580
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 250,
+      "cumulativeInfections": 1830
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 297,
+      "cumulativeInfections": 2127
+    }
+  ],
+  "Germany": [
+    {
+      "date": "2020-02-08",
+      "newInfections": 13,
+      "cumulativeInfections": 110
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 14,
+      "cumulativeInfections": 124
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 14,
+      "cumulativeInfections": 138
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 16,
+      "cumulativeInfections": 154
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 16,
+      "cumulativeInfections": 170
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 16,
+      "cumulativeInfections": 186
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 16,
+      "cumulativeInfections": 202
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 16,
+      "cumulativeInfections": 218
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 16,
+      "cumulativeInfections": 234
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 16,
+      "cumulativeInfections": 250
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 16,
+      "cumulativeInfections": 266
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 16,
+      "cumulativeInfections": 282
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 16,
+      "cumulativeInfections": 298
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 16,
+      "cumulativeInfections": 314
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 16,
+      "cumulativeInfections": 330
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 16,
+      "cumulativeInfections": 346
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 16,
+      "cumulativeInfections": 362
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 17,
+      "cumulativeInfections": 379
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 27,
+      "cumulativeInfections": 406
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 46,
+      "cumulativeInfections": 452
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 48,
+      "cumulativeInfections": 500
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 79,
+      "cumulativeInfections": 579
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 130,
+      "cumulativeInfections": 709
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 159,
+      "cumulativeInfections": 868
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 196,
+      "cumulativeInfections": 1064
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 262,
+      "cumulativeInfections": 1326
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 482,
+      "cumulativeInfections": 1808
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 670,
+      "cumulativeInfections": 2478
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 799,
+      "cumulativeInfections": 3277
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 1040,
+      "cumulativeInfections": 4317
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 1176,
+      "cumulativeInfections": 5493
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 1457,
+      "cumulativeInfections": 6950
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 1908,
+      "cumulativeInfections": 8858
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 2078,
+      "cumulativeInfections": 10936
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 3675,
+      "cumulativeInfections": 14611
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 4585,
+      "cumulativeInfections": 19196
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 5795,
+      "cumulativeInfections": 24991
+    }
+  ],
+  "Finland": [
+    {
+      "date": "2020-03-07",
+      "newInfections": 15,
+      "cumulativeInfections": 103
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 23,
+      "cumulativeInfections": 126
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 30,
+      "cumulativeInfections": 156
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 40,
+      "cumulativeInfections": 196
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 59,
+      "cumulativeInfections": 255
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 59,
+      "cumulativeInfections": 314
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 155,
+      "cumulativeInfections": 469
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 225,
+      "cumulativeInfections": 694
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 244,
+      "cumulativeInfections": 938
+    }
+  ],
+  "United Arab Emirates": [
+    {
+      "date": "2020-02-14",
+      "newInfections": 8,
+      "cumulativeInfections": 100
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 8,
+      "cumulativeInfections": 108
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 9,
+      "cumulativeInfections": 117
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 9,
+      "cumulativeInfections": 126
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 9,
+      "cumulativeInfections": 135
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 9,
+      "cumulativeInfections": 144
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 9,
+      "cumulativeInfections": 153
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 9,
+      "cumulativeInfections": 162
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 13,
+      "cumulativeInfections": 175
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 13,
+      "cumulativeInfections": 188
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 13,
+      "cumulativeInfections": 201
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 13,
+      "cumulativeInfections": 214
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 13,
+      "cumulativeInfections": 227
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 13,
+      "cumulativeInfections": 240
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 19,
+      "cumulativeInfections": 259
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 21,
+      "cumulativeInfections": 280
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 21,
+      "cumulativeInfections": 301
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 21,
+      "cumulativeInfections": 322
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 27,
+      "cumulativeInfections": 349
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 27,
+      "cumulativeInfections": 376
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 29,
+      "cumulativeInfections": 405
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 29,
+      "cumulativeInfections": 434
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 45,
+      "cumulativeInfections": 479
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 45,
+      "cumulativeInfections": 524
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 45,
+      "cumulativeInfections": 569
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 74,
+      "cumulativeInfections": 643
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 74,
+      "cumulativeInfections": 717
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 85,
+      "cumulativeInfections": 802
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 85,
+      "cumulativeInfections": 887
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 85,
+      "cumulativeInfections": 972
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 98,
+      "cumulativeInfections": 1070
+    }
+  ],
+  "Philippines": [
+    {
+      "date": "2020-03-06",
+      "newInfections": 5,
+      "cumulativeInfections": 102
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 6,
+      "cumulativeInfections": 108
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 10,
+      "cumulativeInfections": 118
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 20,
+      "cumulativeInfections": 138
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 33,
+      "cumulativeInfections": 171
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 49,
+      "cumulativeInfections": 220
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 52,
+      "cumulativeInfections": 272
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 64,
+      "cumulativeInfections": 336
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 111,
+      "cumulativeInfections": 447
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 140,
+      "cumulativeInfections": 587
+    }
+  ],
+  "India": [
+    {
+      "date": "2020-03-04",
+      "newInfections": 28,
+      "cumulativeInfections": 127
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 30,
+      "cumulativeInfections": 157
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 31,
+      "cumulativeInfections": 188
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 34,
+      "cumulativeInfections": 222
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 39,
+      "cumulativeInfections": 261
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 43,
+      "cumulativeInfections": 304
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 56,
+      "cumulativeInfections": 360
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 62,
+      "cumulativeInfections": 422
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 73,
+      "cumulativeInfections": 495
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 82,
+      "cumulativeInfections": 577
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 102,
+      "cumulativeInfections": 679
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 113,
+      "cumulativeInfections": 792
+    }
+  ],
+  "Italy": [
+    {
+      "date": "2020-02-22",
+      "newInfections": 62,
+      "cumulativeInfections": 138
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 155,
+      "cumulativeInfections": 293
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 229,
+      "cumulativeInfections": 522
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 322,
+      "cumulativeInfections": 844
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 453,
+      "cumulativeInfections": 1297
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 655,
+      "cumulativeInfections": 1952
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 888,
+      "cumulativeInfections": 2840
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 1128,
+      "cumulativeInfections": 3968
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 1694,
+      "cumulativeInfections": 5662
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 2036,
+      "cumulativeInfections": 7698
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 2502,
+      "cumulativeInfections": 10200
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 3089,
+      "cumulativeInfections": 13289
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 3858,
+      "cumulativeInfections": 17147
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 4636,
+      "cumulativeInfections": 21783
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 5883,
+      "cumulativeInfections": 27666
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 7375,
+      "cumulativeInfections": 35041
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 9172,
+      "cumulativeInfections": 44213
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 10149,
+      "cumulativeInfections": 54362
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 12462,
+      "cumulativeInfections": 66824
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 12462,
+      "cumulativeInfections": 79286
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 17660,
+      "cumulativeInfections": 96946
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 21157,
+      "cumulativeInfections": 118103
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 24747,
+      "cumulativeInfections": 142850
+    }
+  ],
+  "Sweden": [
+    {
+      "date": "2020-03-03",
+      "newInfections": 21,
+      "cumulativeInfections": 104
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 35,
+      "cumulativeInfections": 139
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 94,
+      "cumulativeInfections": 233
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 101,
+      "cumulativeInfections": 334
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 161,
+      "cumulativeInfections": 495
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 203,
+      "cumulativeInfections": 698
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 248,
+      "cumulativeInfections": 946
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 355,
+      "cumulativeInfections": 1301
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 500,
+      "cumulativeInfections": 1801
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 599,
+      "cumulativeInfections": 2400
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 814,
+      "cumulativeInfections": 3214
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 961,
+      "cumulativeInfections": 4175
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 1022,
+      "cumulativeInfections": 5197
+    }
+  ],
+  "Spain": [
+    {
+      "date": "2020-02-28",
+      "newInfections": 32,
+      "cumulativeInfections": 106
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 45,
+      "cumulativeInfections": 151
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 84,
+      "cumulativeInfections": 235
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 120,
+      "cumulativeInfections": 355
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 165,
+      "cumulativeInfections": 520
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 222,
+      "cumulativeInfections": 742
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 259,
+      "cumulativeInfections": 1001
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 400,
+      "cumulativeInfections": 1401
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 500,
+      "cumulativeInfections": 1901
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 673,
+      "cumulativeInfections": 2574
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 1073,
+      "cumulativeInfections": 3647
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 1695,
+      "cumulativeInfections": 5342
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 2277,
+      "cumulativeInfections": 7619
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 2277,
+      "cumulativeInfections": 9896
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 5232,
+      "cumulativeInfections": 15128
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 6391,
+      "cumulativeInfections": 21519
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 7798,
+      "cumulativeInfections": 29317
+    }
+  ],
+  "Belgium": [
+    {
+      "date": "2020-03-05",
+      "newInfections": 50,
+      "cumulativeInfections": 122
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 109,
+      "cumulativeInfections": 231
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 169,
+      "cumulativeInfections": 400
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 200,
+      "cumulativeInfections": 600
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 239,
+      "cumulativeInfections": 839
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 267,
+      "cumulativeInfections": 1106
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 314,
+      "cumulativeInfections": 1420
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 314,
+      "cumulativeInfections": 1734
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 559,
+      "cumulativeInfections": 2293
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 689,
+      "cumulativeInfections": 2982
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 886,
+      "cumulativeInfections": 3868
+    }
+  ],
+  "Egypt": [
+    {
+      "date": "2020-03-08",
+      "newInfections": 49,
+      "cumulativeInfections": 106
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 55,
+      "cumulativeInfections": 161
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 59,
+      "cumulativeInfections": 220
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 60,
+      "cumulativeInfections": 280
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 67,
+      "cumulativeInfections": 347
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 80,
+      "cumulativeInfections": 427
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 109,
+      "cumulativeInfections": 536
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 110,
+      "cumulativeInfections": 646
+    }
+  ],
+  "Lebanon": [
+    {
+      "date": "2020-03-06",
+      "newInfections": 22,
+      "cumulativeInfections": 102
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 22,
+      "cumulativeInfections": 124
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 32,
+      "cumulativeInfections": 156
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 32,
+      "cumulativeInfections": 188
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 41,
+      "cumulativeInfections": 229
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 61,
+      "cumulativeInfections": 290
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 61,
+      "cumulativeInfections": 351
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 77,
+      "cumulativeInfections": 428
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 93,
+      "cumulativeInfections": 521
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 110,
+      "cumulativeInfections": 631
+    }
+  ],
+  "Iraq": [
+    {
+      "date": "2020-03-03",
+      "newInfections": 32,
+      "cumulativeInfections": 111
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 35,
+      "cumulativeInfections": 146
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 35,
+      "cumulativeInfections": 181
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 40,
+      "cumulativeInfections": 221
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 54,
+      "cumulativeInfections": 275
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 60,
+      "cumulativeInfections": 335
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 60,
+      "cumulativeInfections": 395
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 71,
+      "cumulativeInfections": 466
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 71,
+      "cumulativeInfections": 537
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 71,
+      "cumulativeInfections": 608
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 101,
+      "cumulativeInfections": 709
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 110,
+      "cumulativeInfections": 819
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 116,
+      "cumulativeInfections": 935
+    }
+  ],
+  "Oman": [
+    {
+      "date": "2020-03-07",
+      "newInfections": 16,
+      "cumulativeInfections": 109
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 16,
+      "cumulativeInfections": 125
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 16,
+      "cumulativeInfections": 141
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 18,
+      "cumulativeInfections": 159
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 18,
+      "cumulativeInfections": 177
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 18,
+      "cumulativeInfections": 195
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 19,
+      "cumulativeInfections": 214
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 19,
+      "cumulativeInfections": 233
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 22,
+      "cumulativeInfections": 255
+    }
+  ],
+  "Bahrain": [
+    {
+      "date": "2020-02-28",
+      "newInfections": 36,
+      "cumulativeInfections": 126
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 41,
+      "cumulativeInfections": 167
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 47,
+      "cumulativeInfections": 214
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 49,
+      "cumulativeInfections": 263
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 49,
+      "cumulativeInfections": 312
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 52,
+      "cumulativeInfections": 364
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 55,
+      "cumulativeInfections": 419
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 60,
+      "cumulativeInfections": 479
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 85,
+      "cumulativeInfections": 564
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 85,
+      "cumulativeInfections": 649
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 95,
+      "cumulativeInfections": 744
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 110,
+      "cumulativeInfections": 854
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 195,
+      "cumulativeInfections": 1049
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 195,
+      "cumulativeInfections": 1244
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 189,
+      "cumulativeInfections": 1433
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 210,
+      "cumulativeInfections": 1643
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 214,
+      "cumulativeInfections": 1857
+    }
+  ],
+  "Kuwait": [
+    {
+      "date": "2020-02-28",
+      "newInfections": 45,
+      "cumulativeInfections": 126
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 45,
+      "cumulativeInfections": 171
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 45,
+      "cumulativeInfections": 216
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 56,
+      "cumulativeInfections": 272
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 56,
+      "cumulativeInfections": 328
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 56,
+      "cumulativeInfections": 384
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 58,
+      "cumulativeInfections": 442
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 58,
+      "cumulativeInfections": 500
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 61,
+      "cumulativeInfections": 561
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 64,
+      "cumulativeInfections": 625
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 64,
+      "cumulativeInfections": 689
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 69,
+      "cumulativeInfections": 758
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 72,
+      "cumulativeInfections": 830
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 80,
+      "cumulativeInfections": 910
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 80,
+      "cumulativeInfections": 990
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 104,
+      "cumulativeInfections": 1094
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 112,
+      "cumulativeInfections": 1206
+    }
+  ],
+  "Algeria": [
+    {
+      "date": "2020-03-09",
+      "newInfections": 20,
+      "cumulativeInfections": 111
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 20,
+      "cumulativeInfections": 131
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 20,
+      "cumulativeInfections": 151
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 24,
+      "cumulativeInfections": 175
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 26,
+      "cumulativeInfections": 201
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 37,
+      "cumulativeInfections": 238
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 48,
+      "cumulativeInfections": 286
+    }
+  ],
+  "Croatia": [
+    {
+      "date": "2020-03-09",
+      "newInfections": 12,
+      "cumulativeInfections": 108
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 14,
+      "cumulativeInfections": 122
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 19,
+      "cumulativeInfections": 141
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 19,
+      "cumulativeInfections": 160
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 32,
+      "cumulativeInfections": 192
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 38,
+      "cumulativeInfections": 230
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 49,
+      "cumulativeInfections": 279
+    }
+  ],
+  "Switzerland": [
+    {
+      "date": "2020-03-02",
+      "newInfections": 42,
+      "cumulativeInfections": 105
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 56,
+      "cumulativeInfections": 161
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 90,
+      "cumulativeInfections": 251
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 114,
+      "cumulativeInfections": 365
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 214,
+      "cumulativeInfections": 579
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 268,
+      "cumulativeInfections": 847
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 337,
+      "cumulativeInfections": 1184
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 374,
+      "cumulativeInfections": 1558
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 491,
+      "cumulativeInfections": 2049
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 652,
+      "cumulativeInfections": 2701
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 652,
+      "cumulativeInfections": 3353
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 1139,
+      "cumulativeInfections": 4492
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 1359,
+      "cumulativeInfections": 5851
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 2200,
+      "cumulativeInfections": 8051
+    }
+  ],
+  "Austria": [
+    {
+      "date": "2020-03-04",
+      "newInfections": 29,
+      "cumulativeInfections": 101
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 41,
+      "cumulativeInfections": 142
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 55,
+      "cumulativeInfections": 197
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 79,
+      "cumulativeInfections": 276
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 104,
+      "cumulativeInfections": 380
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 131,
+      "cumulativeInfections": 511
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 182,
+      "cumulativeInfections": 693
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 246,
+      "cumulativeInfections": 939
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 302,
+      "cumulativeInfections": 1241
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 504,
+      "cumulativeInfections": 1745
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 655,
+      "cumulativeInfections": 2400
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 860,
+      "cumulativeInfections": 3260
+    }
+  ],
+  "Israel": [
+    {
+      "date": "2020-03-06",
+      "newInfections": 37,
+      "cumulativeInfections": 125
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 43,
+      "cumulativeInfections": 168
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 61,
+      "cumulativeInfections": 229
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 61,
+      "cumulativeInfections": 290
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 83,
+      "cumulativeInfections": 373
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 109,
+      "cumulativeInfections": 482
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 131,
+      "cumulativeInfections": 613
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 161,
+      "cumulativeInfections": 774
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 193,
+      "cumulativeInfections": 967
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 251,
+      "cumulativeInfections": 1218
+    }
+  ],
+  "Pakistan": [
+    {
+      "date": "2020-03-12",
+      "newInfections": 20,
+      "cumulativeInfections": 112
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 28,
+      "cumulativeInfections": 140
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 31,
+      "cumulativeInfections": 171
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 53,
+      "cumulativeInfections": 224
+    }
+  ],
+  "Brazil": [
+    {
+      "date": "2020-03-10",
+      "newInfections": 31,
+      "cumulativeInfections": 121
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 38,
+      "cumulativeInfections": 159
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 52,
+      "cumulativeInfections": 211
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 151,
+      "cumulativeInfections": 362
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 151,
+      "cumulativeInfections": 513
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 162,
+      "cumulativeInfections": 675
+    }
+  ],
+  "Georgia": [
+    {
+      "date": "2020-03-12",
+      "newInfections": 24,
+      "cumulativeInfections": 119
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 25,
+      "cumulativeInfections": 144
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 30,
+      "cumulativeInfections": 174
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 33,
+      "cumulativeInfections": 207
+    }
+  ],
+  "Greece": [
+    {
+      "date": "2020-03-06",
+      "newInfections": 45,
+      "cumulativeInfections": 118
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 46,
+      "cumulativeInfections": 164
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 73,
+      "cumulativeInfections": 237
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 73,
+      "cumulativeInfections": 310
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 89,
+      "cumulativeInfections": 399
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 99,
+      "cumulativeInfections": 498
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 99,
+      "cumulativeInfections": 597
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 190,
+      "cumulativeInfections": 787
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 228,
+      "cumulativeInfections": 1015
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 331,
+      "cumulativeInfections": 1346
+    }
+  ],
+  "Norway": [
+    {
+      "date": "2020-03-04",
+      "newInfections": 56,
+      "cumulativeInfections": 155
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 87,
+      "cumulativeInfections": 242
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 108,
+      "cumulativeInfections": 350
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 147,
+      "cumulativeInfections": 497
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 176,
+      "cumulativeInfections": 673
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 205,
+      "cumulativeInfections": 878
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 400,
+      "cumulativeInfections": 1278
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 598,
+      "cumulativeInfections": 1876
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 702,
+      "cumulativeInfections": 2578
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 996,
+      "cumulativeInfections": 3574
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 1090,
+      "cumulativeInfections": 4664
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 1221,
+      "cumulativeInfections": 5885
+    }
+  ],
+  "Romania": [
+    {
+      "date": "2020-03-10",
+      "newInfections": 25,
+      "cumulativeInfections": 100
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 45,
+      "cumulativeInfections": 145
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 49,
+      "cumulativeInfections": 194
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 89,
+      "cumulativeInfections": 283
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 123,
+      "cumulativeInfections": 406
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 131,
+      "cumulativeInfections": 537
+    }
+  ],
+  "Estonia": [
+    {
+      "date": "2020-03-13",
+      "newInfections": 79,
+      "cumulativeInfections": 175
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 115,
+      "cumulativeInfections": 290
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 171,
+      "cumulativeInfections": 461
+    }
+  ],
+  "Netherlands": [
+    {
+      "date": "2020-03-05",
+      "newInfections": 82,
+      "cumulativeInfections": 180
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 128,
+      "cumulativeInfections": 308
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 188,
+      "cumulativeInfections": 496
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 265,
+      "cumulativeInfections": 761
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 321,
+      "cumulativeInfections": 1082
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 382,
+      "cumulativeInfections": 1464
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 503,
+      "cumulativeInfections": 1967
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 503,
+      "cumulativeInfections": 2470
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 804,
+      "cumulativeInfections": 3274
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 959,
+      "cumulativeInfections": 4233
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 1135,
+      "cumulativeInfections": 5368
+    }
+  ],
+  "San Marino": [
+    {
+      "date": "2020-03-07",
+      "newInfections": 23,
+      "cumulativeInfections": 103
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 36,
+      "cumulativeInfections": 139
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 36,
+      "cumulativeInfections": 175
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 51,
+      "cumulativeInfections": 226
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 62,
+      "cumulativeInfections": 288
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 69,
+      "cumulativeInfections": 357
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 80,
+      "cumulativeInfections": 437
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 80,
+      "cumulativeInfections": 517
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 101,
+      "cumulativeInfections": 618
+    }
+  ],
+  "Belarus": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 27,
+      "cumulativeInfections": 125
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 27,
+      "cumulativeInfections": 152
+    }
+  ],
+  "Iceland": [
+    {
+      "date": "2020-03-06",
+      "newInfections": 43,
+      "cumulativeInfections": 125
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 50,
+      "cumulativeInfections": 175
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 50,
+      "cumulativeInfections": 225
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 58,
+      "cumulativeInfections": 283
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 69,
+      "cumulativeInfections": 352
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 85,
+      "cumulativeInfections": 437
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 103,
+      "cumulativeInfections": 540
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 134,
+      "cumulativeInfections": 674
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 156,
+      "cumulativeInfections": 830
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 171,
+      "cumulativeInfections": 1001
+    }
+  ],
+  "Mexico": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 26,
+      "cumulativeInfections": 121
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 41,
+      "cumulativeInfections": 162
+    }
+  ],
+  "Ireland": [
+    {
+      "date": "2020-03-10",
+      "newInfections": 34,
+      "cumulativeInfections": 127
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 43,
+      "cumulativeInfections": 170
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 43,
+      "cumulativeInfections": 213
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 90,
+      "cumulativeInfections": 303
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 129,
+      "cumulativeInfections": 432
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 129,
+      "cumulativeInfections": 561
+    }
+  ],
+  "Luxembourg": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 51,
+      "cumulativeInfections": 132
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 59,
+      "cumulativeInfections": 191
+    }
+  ],
+  "Qatar": [
+    {
+      "date": "2020-03-10",
+      "newInfections": 24,
+      "cumulativeInfections": 103
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 262,
+      "cumulativeInfections": 365
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 262,
+      "cumulativeInfections": 627
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 320,
+      "cumulativeInfections": 947
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 337,
+      "cumulativeInfections": 1284
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 401,
+      "cumulativeInfections": 1685
+    }
+  ],
+  "Ecuador": [
+    {
+      "date": "2020-03-10",
+      "newInfections": 15,
+      "cumulativeInfections": 112
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 17,
+      "cumulativeInfections": 129
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 17,
+      "cumulativeInfections": 146
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 17,
+      "cumulativeInfections": 163
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 28,
+      "cumulativeInfections": 191
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 28,
+      "cumulativeInfections": 219
+    }
+  ],
+  "Azerbaijan": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 15,
+      "cumulativeInfections": 114
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 23,
+      "cumulativeInfections": 137
+    }
+  ],
+  "Indonesia": [
+    {
+      "date": "2020-03-11",
+      "newInfections": 34,
+      "cumulativeInfections": 102
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 34,
+      "cumulativeInfections": 136
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 69,
+      "cumulativeInfections": 205
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 96,
+      "cumulativeInfections": 301
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 117,
+      "cumulativeInfections": 418
+    }
+  ],
+  "Portugal": [
+    {
+      "date": "2020-03-09",
+      "newInfections": 30,
+      "cumulativeInfections": 110
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 41,
+      "cumulativeInfections": 151
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 59,
+      "cumulativeInfections": 210
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 59,
+      "cumulativeInfections": 269
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 112,
+      "cumulativeInfections": 381
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 169,
+      "cumulativeInfections": 550
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 245,
+      "cumulativeInfections": 795
+    }
+  ],
+  "Latvia": [
+    {
+      "date": "2020-03-15",
+      "newInfections": 30,
+      "cumulativeInfections": 115
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      "date": "2020-03-12",
+      "newInfections": 45,
+      "cumulativeInfections": 130
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 86,
+      "cumulativeInfections": 216
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 103,
+      "cumulativeInfections": 319
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 103,
+      "cumulativeInfections": 422
+    }
+  ],
+  "Argentina": [
+    {
+      "date": "2020-03-13",
+      "newInfections": 31,
+      "cumulativeInfections": 123
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 34,
+      "cumulativeInfections": 157
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 45,
+      "cumulativeInfections": 202
+    }
+  ],
+  "Chile": [
+    {
+      "date": "2020-03-13",
+      "newInfections": 43,
+      "cumulativeInfections": 132
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 61,
+      "cumulativeInfections": 193
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 74,
+      "cumulativeInfections": 267
+    }
+  ],
+  "Hungary": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 30,
+      "cumulativeInfections": 110
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 32,
+      "cumulativeInfections": 142
+    }
+  ],
+  "Poland": [
+    {
+      "date": "2020-03-12",
+      "newInfections": 49,
+      "cumulativeInfections": 141
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 68,
+      "cumulativeInfections": 209
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 103,
+      "cumulativeInfections": 312
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 119,
+      "cumulativeInfections": 431
+    }
+  ],
+  "Slovenia": [
+    {
+      "date": "2020-03-11",
+      "newInfections": 57,
+      "cumulativeInfections": 136
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 89,
+      "cumulativeInfections": 225
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 141,
+      "cumulativeInfections": 366
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 181,
+      "cumulativeInfections": 547
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 219,
+      "cumulativeInfections": 766
+    }
+  ],
+  "South Africa": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 38,
+      "cumulativeInfections": 108
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 51,
+      "cumulativeInfections": 159
+    }
+  ],
+  "Costa Rica": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 26,
+      "cumulativeInfections": 109
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 27,
+      "cumulativeInfections": 136
+    }
+  ],
+  "Peru": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 38,
+      "cumulativeInfections": 118
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 43,
+      "cumulativeInfections": 161
+    }
+  ],
+  "Serbia": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 46,
+      "cumulativeInfections": 121
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 48,
+      "cumulativeInfections": 169
+    }
+  ],
+  "Slovakia": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 44,
+      "cumulativeInfections": 117
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 54,
+      "cumulativeInfections": 171
+    }
+  ],
+  "Bulgaria": [
+    {
+      "date": "2020-03-15",
+      "newInfections": 51,
+      "cumulativeInfections": 141
+    }
+  ],
+  "Albania": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 38,
+      "cumulativeInfections": 118
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 42,
+      "cumulativeInfections": 160
+    }
+  ],
+  "Brunei": [
+    {
+      "date": "2020-03-14",
+      "newInfections": 40,
+      "cumulativeInfections": 101
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 50,
+      "cumulativeInfections": 151
+    }
+  ],
+  "US": [
+    {
+      "date": "2020-02-07",
+      "newInfections": 11,
+      "cumulativeInfections": 109
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 11,
+      "cumulativeInfections": 120
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 11,
+      "cumulativeInfections": 131
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 11,
+      "cumulativeInfections": 142
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 12,
+      "cumulativeInfections": 154
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 12,
+      "cumulativeInfections": 166
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 13,
+      "cumulativeInfections": 179
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 13,
+      "cumulativeInfections": 192
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 13,
+      "cumulativeInfections": 205
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 13,
+      "cumulativeInfections": 218
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 13,
+      "cumulativeInfections": 231
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 13,
+      "cumulativeInfections": 244
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 13,
+      "cumulativeInfections": 257
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 13,
+      "cumulativeInfections": 270
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 15,
+      "cumulativeInfections": 285
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 15,
+      "cumulativeInfections": 300
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 15,
+      "cumulativeInfections": 315
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 51,
+      "cumulativeInfections": 366
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 51,
+      "cumulativeInfections": 417
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 57,
+      "cumulativeInfections": 474
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 58,
+      "cumulativeInfections": 532
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 60,
+      "cumulativeInfections": 592
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 68,
+      "cumulativeInfections": 660
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 74,
+      "cumulativeInfections": 734
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 98,
+      "cumulativeInfections": 832
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 118,
+      "cumulativeInfections": 950
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 149,
+      "cumulativeInfections": 1099
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 217,
+      "cumulativeInfections": 1316
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 262,
+      "cumulativeInfections": 1578
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 402,
+      "cumulativeInfections": 1980
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 518,
+      "cumulativeInfections": 2498
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 583,
+      "cumulativeInfections": 3081
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 959,
+      "cumulativeInfections": 4040
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 1281,
+      "cumulativeInfections": 5321
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 1663,
+      "cumulativeInfections": 6984
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 2179,
+      "cumulativeInfections": 9163
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 2727,
+      "cumulativeInfections": 11890
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 3499,
+      "cumulativeInfections": 15389
+    }
+  ],
+  "Panama": [
+    {
+      "date": "2020-03-15",
+      "newInfections": 43,
+      "cumulativeInfections": 126
+    }
+  ],
+  "China": [
+    {
+      "date": "2020-01-22",
+      "newInfections": 548,
+      "cumulativeInfections": 548
+    },
+    {
+      "date": "2020-01-23",
+      "newInfections": 643,
+      "cumulativeInfections": 1191
+    },
+    {
+      "date": "2020-01-24",
+      "newInfections": 920,
+      "cumulativeInfections": 2111
+    },
+    {
+      "date": "2020-01-25",
+      "newInfections": 1406,
+      "cumulativeInfections": 3517
+    },
+    {
+      "date": "2020-01-26",
+      "newInfections": 2075,
+      "cumulativeInfections": 5592
+    },
+    {
+      "date": "2020-01-27",
+      "newInfections": 2877,
+      "cumulativeInfections": 8469
+    },
+    {
+      "date": "2020-01-28",
+      "newInfections": 5509,
+      "cumulativeInfections": 13978
+    },
+    {
+      "date": "2020-01-29",
+      "newInfections": 6087,
+      "cumulativeInfections": 20065
+    },
+    {
+      "date": "2020-01-30",
+      "newInfections": 8141,
+      "cumulativeInfections": 28206
+    },
+    {
+      "date": "2020-01-31",
+      "newInfections": 9802,
+      "cumulativeInfections": 38008
+    },
+    {
+      "date": "2020-02-01",
+      "newInfections": 11891,
+      "cumulativeInfections": 49899
+    },
+    {
+      "date": "2020-02-02",
+      "newInfections": 16630,
+      "cumulativeInfections": 66529
+    },
+    {
+      "date": "2020-02-03",
+      "newInfections": 19716,
+      "cumulativeInfections": 86245
+    },
+    {
+      "date": "2020-02-04",
+      "newInfections": 23707,
+      "cumulativeInfections": 109952
+    },
+    {
+      "date": "2020-02-05",
+      "newInfections": 27440,
+      "cumulativeInfections": 137392
+    },
+    {
+      "date": "2020-02-06",
+      "newInfections": 30587,
+      "cumulativeInfections": 167979
+    },
+    {
+      "date": "2020-02-07",
+      "newInfections": 34110,
+      "cumulativeInfections": 202089
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 36814,
+      "cumulativeInfections": 238903
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 39829,
+      "cumulativeInfections": 278732
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 42354,
+      "cumulativeInfections": 321086
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 44386,
+      "cumulativeInfections": 365472
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 44759,
+      "cumulativeInfections": 410231
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 59895,
+      "cumulativeInfections": 470126
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 66358,
+      "cumulativeInfections": 536484
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 68413,
+      "cumulativeInfections": 604897
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 70513,
+      "cumulativeInfections": 675410
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 72434,
+      "cumulativeInfections": 747844
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 74211,
+      "cumulativeInfections": 822055
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 74619,
+      "cumulativeInfections": 896674
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 75077,
+      "cumulativeInfections": 971751
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 75550,
+      "cumulativeInfections": 1047301
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 77001,
+      "cumulativeInfections": 1124302
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 77022,
+      "cumulativeInfections": 1201324
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 77241,
+      "cumulativeInfections": 1278565
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 77754,
+      "cumulativeInfections": 1356319
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 78166,
+      "cumulativeInfections": 1434485
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 78600,
+      "cumulativeInfections": 1513085
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 78928,
+      "cumulativeInfections": 1592013
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 79356,
+      "cumulativeInfections": 1671369
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 79932,
+      "cumulativeInfections": 1751301
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 80136,
+      "cumulativeInfections": 1831437
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 80261,
+      "cumulativeInfections": 1911698
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 80386,
+      "cumulativeInfections": 1992084
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 80537,
+      "cumulativeInfections": 2072621
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 80690,
+      "cumulativeInfections": 2153311
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 80770,
+      "cumulativeInfections": 2234081
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 80823,
+      "cumulativeInfections": 2314904
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 80860,
+      "cumulativeInfections": 2395764
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 80887,
+      "cumulativeInfections": 2476651
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 80921,
+      "cumulativeInfections": 2557572
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 80932,
+      "cumulativeInfections": 2638504
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 80945,
+      "cumulativeInfections": 2719449
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 80977,
+      "cumulativeInfections": 2800426
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 81003,
+      "cumulativeInfections": 2881429
+    }
+  ],
+  "Iran": [
+    {
+      "date": "2020-02-24",
+      "newInfections": 61,
+      "cumulativeInfections": 157
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 95,
+      "cumulativeInfections": 252
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 139,
+      "cumulativeInfections": 391
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 245,
+      "cumulativeInfections": 636
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 388,
+      "cumulativeInfections": 1024
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 593,
+      "cumulativeInfections": 1617
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 978,
+      "cumulativeInfections": 2595
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 1501,
+      "cumulativeInfections": 4096
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 2336,
+      "cumulativeInfections": 6432
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 2922,
+      "cumulativeInfections": 9354
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 3513,
+      "cumulativeInfections": 12867
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 4747,
+      "cumulativeInfections": 17614
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 5823,
+      "cumulativeInfections": 23437
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 6566,
+      "cumulativeInfections": 30003
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 7161,
+      "cumulativeInfections": 37164
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 8042,
+      "cumulativeInfections": 45206
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 9000,
+      "cumulativeInfections": 54206
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 10075,
+      "cumulativeInfections": 64281
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 11364,
+      "cumulativeInfections": 75645
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 12729,
+      "cumulativeInfections": 88374
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 13938,
+      "cumulativeInfections": 102312
+    }
+  ],
+  "Korea, South": [
+    {
+      "date": "2020-02-05",
+      "newInfections": 19,
+      "cumulativeInfections": 113
+    },
+    {
+      "date": "2020-02-06",
+      "newInfections": 23,
+      "cumulativeInfections": 136
+    },
+    {
+      "date": "2020-02-07",
+      "newInfections": 24,
+      "cumulativeInfections": 160
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 24,
+      "cumulativeInfections": 184
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 25,
+      "cumulativeInfections": 209
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 27,
+      "cumulativeInfections": 236
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 28,
+      "cumulativeInfections": 264
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 28,
+      "cumulativeInfections": 292
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 28,
+      "cumulativeInfections": 320
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 28,
+      "cumulativeInfections": 348
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 28,
+      "cumulativeInfections": 376
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 29,
+      "cumulativeInfections": 405
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 30,
+      "cumulativeInfections": 435
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 31,
+      "cumulativeInfections": 466
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 31,
+      "cumulativeInfections": 497
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 104,
+      "cumulativeInfections": 601
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 204,
+      "cumulativeInfections": 805
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 433,
+      "cumulativeInfections": 1238
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 602,
+      "cumulativeInfections": 1840
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 833,
+      "cumulativeInfections": 2673
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 977,
+      "cumulativeInfections": 3650
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 1261,
+      "cumulativeInfections": 4911
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 1766,
+      "cumulativeInfections": 6677
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 2337,
+      "cumulativeInfections": 9014
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 3150,
+      "cumulativeInfections": 12164
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 3736,
+      "cumulativeInfections": 15900
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 4335,
+      "cumulativeInfections": 20235
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 5186,
+      "cumulativeInfections": 25421
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 5621,
+      "cumulativeInfections": 31042
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 6088,
+      "cumulativeInfections": 37130
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 6593,
+      "cumulativeInfections": 43723
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 7041,
+      "cumulativeInfections": 50764
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 7314,
+      "cumulativeInfections": 58078
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 7478,
+      "cumulativeInfections": 65556
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 7513,
+      "cumulativeInfections": 73069
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 7755,
+      "cumulativeInfections": 80824
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 7869,
+      "cumulativeInfections": 88693
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 7979,
+      "cumulativeInfections": 96672
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 8086,
+      "cumulativeInfections": 104758
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 8162,
+      "cumulativeInfections": 112920
+    }
+  ],
+  "France": [
+    {
+      "date": "2020-02-10",
+      "newInfections": 11,
+      "cumulativeInfections": 105
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 11,
+      "cumulativeInfections": 116
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 11,
+      "cumulativeInfections": 127
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 11,
+      "cumulativeInfections": 138
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 11,
+      "cumulativeInfections": 149
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 12,
+      "cumulativeInfections": 161
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 12,
+      "cumulativeInfections": 173
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 12,
+      "cumulativeInfections": 185
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 12,
+      "cumulativeInfections": 197
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 12,
+      "cumulativeInfections": 209
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 12,
+      "cumulativeInfections": 221
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 12,
+      "cumulativeInfections": 233
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 12,
+      "cumulativeInfections": 245
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 12,
+      "cumulativeInfections": 257
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 12,
+      "cumulativeInfections": 269
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 14,
+      "cumulativeInfections": 283
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 18,
+      "cumulativeInfections": 301
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 38,
+      "cumulativeInfections": 339
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 57,
+      "cumulativeInfections": 396
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 100,
+      "cumulativeInfections": 496
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 130,
+      "cumulativeInfections": 626
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 191,
+      "cumulativeInfections": 817
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 204,
+      "cumulativeInfections": 1021
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 288,
+      "cumulativeInfections": 1309
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 380,
+      "cumulativeInfections": 1689
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 656,
+      "cumulativeInfections": 2345
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 957,
+      "cumulativeInfections": 3302
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 1134,
+      "cumulativeInfections": 4436
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 1217,
+      "cumulativeInfections": 5653
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 1792,
+      "cumulativeInfections": 7445
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 2289,
+      "cumulativeInfections": 9734
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 2289,
+      "cumulativeInfections": 12023
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 3672,
+      "cumulativeInfections": 15695
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 4480,
+      "cumulativeInfections": 20175
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 4513,
+      "cumulativeInfections": 24688
+    }
+  ],
+  "Cruise Ship": [
+    {
+      "date": "2020-02-08",
+      "newInfections": 61,
+      "cumulativeInfections": 122
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 64,
+      "cumulativeInfections": 186
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 135,
+      "cumulativeInfections": 321
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 135,
+      "cumulativeInfections": 456
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 175,
+      "cumulativeInfections": 631
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 175,
+      "cumulativeInfections": 806
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 218,
+      "cumulativeInfections": 1024
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 285,
+      "cumulativeInfections": 1309
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 355,
+      "cumulativeInfections": 1664
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 454,
+      "cumulativeInfections": 2118
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 542,
+      "cumulativeInfections": 2660
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 621,
+      "cumulativeInfections": 3281
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 634,
+      "cumulativeInfections": 3915
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 634,
+      "cumulativeInfections": 4549
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 634,
+      "cumulativeInfections": 5183
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 691,
+      "cumulativeInfections": 5874
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 691,
+      "cumulativeInfections": 6565
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 691,
+      "cumulativeInfections": 7256
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 705,
+      "cumulativeInfections": 7961
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 705,
+      "cumulativeInfections": 8666
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 705,
+      "cumulativeInfections": 9371
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 705,
+      "cumulativeInfections": 10076
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 705,
+      "cumulativeInfections": 10781
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 705,
+      "cumulativeInfections": 11486
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 706,
+      "cumulativeInfections": 12192
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 706,
+      "cumulativeInfections": 12898
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 706,
+      "cumulativeInfections": 13604
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 696,
+      "cumulativeInfections": 14300
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 696,
+      "cumulativeInfections": 14996
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 696,
+      "cumulativeInfections": 15692
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 696,
+      "cumulativeInfections": 16388
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 696,
+      "cumulativeInfections": 17084
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 696,
+      "cumulativeInfections": 17780
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 696,
+      "cumulativeInfections": 18476
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 696,
+      "cumulativeInfections": 19172
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 696,
+      "cumulativeInfections": 19868
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 696,
+      "cumulativeInfections": 20564
+    }
+  ],
+  "Denmark": [
+    {
+      "date": "2020-03-08",
+      "newInfections": 37,
+      "cumulativeInfections": 126
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 92,
+      "cumulativeInfections": 218
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 264,
+      "cumulativeInfections": 482
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 444,
+      "cumulativeInfections": 926
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 617,
+      "cumulativeInfections": 1543
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 804,
+      "cumulativeInfections": 2347
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 836,
+      "cumulativeInfections": 3183
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 875,
+      "cumulativeInfections": 4058
+    }
+  ],
+  "Czechia": [
+    {
+      "date": "2020-03-09",
+      "newInfections": 31,
+      "cumulativeInfections": 130
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 41,
+      "cumulativeInfections": 171
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 91,
+      "cumulativeInfections": 262
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 94,
+      "cumulativeInfections": 356
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 141,
+      "cumulativeInfections": 497
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 189,
+      "cumulativeInfections": 686
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 253,
+      "cumulativeInfections": 939
+    }
+  ],
+  "Taiwan*": [
+    {
+      "date": "2020-02-05",
+      "newInfections": 11,
+      "cumulativeInfections": 104
+    },
+    {
+      "date": "2020-02-06",
+      "newInfections": 16,
+      "cumulativeInfections": 120
+    },
+    {
+      "date": "2020-02-07",
+      "newInfections": 16,
+      "cumulativeInfections": 136
+    },
+    {
+      "date": "2020-02-08",
+      "newInfections": 17,
+      "cumulativeInfections": 153
+    },
+    {
+      "date": "2020-02-09",
+      "newInfections": 18,
+      "cumulativeInfections": 171
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 18,
+      "cumulativeInfections": 189
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 18,
+      "cumulativeInfections": 207
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 18,
+      "cumulativeInfections": 225
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 18,
+      "cumulativeInfections": 243
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 18,
+      "cumulativeInfections": 261
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 18,
+      "cumulativeInfections": 279
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 20,
+      "cumulativeInfections": 299
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 22,
+      "cumulativeInfections": 321
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 22,
+      "cumulativeInfections": 343
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 23,
+      "cumulativeInfections": 366
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 24,
+      "cumulativeInfections": 390
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 26,
+      "cumulativeInfections": 416
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 26,
+      "cumulativeInfections": 442
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 28,
+      "cumulativeInfections": 470
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 30,
+      "cumulativeInfections": 500
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 31,
+      "cumulativeInfections": 531
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 32,
+      "cumulativeInfections": 563
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 32,
+      "cumulativeInfections": 595
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 34,
+      "cumulativeInfections": 629
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 39,
+      "cumulativeInfections": 668
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 40,
+      "cumulativeInfections": 708
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 41,
+      "cumulativeInfections": 749
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 42,
+      "cumulativeInfections": 791
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 42,
+      "cumulativeInfections": 833
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 44,
+      "cumulativeInfections": 877
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 45,
+      "cumulativeInfections": 922
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 45,
+      "cumulativeInfections": 967
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 45,
+      "cumulativeInfections": 1012
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 45,
+      "cumulativeInfections": 1057
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 47,
+      "cumulativeInfections": 1104
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 48,
+      "cumulativeInfections": 1152
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 49,
+      "cumulativeInfections": 1201
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 50,
+      "cumulativeInfections": 1251
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 53,
+      "cumulativeInfections": 1304
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 59,
+      "cumulativeInfections": 1363
+    }
+  ],
+  "Vietnam": [
+    {
+      "date": "2020-02-09",
+      "newInfections": 13,
+      "cumulativeInfections": 100
+    },
+    {
+      "date": "2020-02-10",
+      "newInfections": 14,
+      "cumulativeInfections": 114
+    },
+    {
+      "date": "2020-02-11",
+      "newInfections": 15,
+      "cumulativeInfections": 129
+    },
+    {
+      "date": "2020-02-12",
+      "newInfections": 15,
+      "cumulativeInfections": 144
+    },
+    {
+      "date": "2020-02-13",
+      "newInfections": 16,
+      "cumulativeInfections": 160
+    },
+    {
+      "date": "2020-02-14",
+      "newInfections": 16,
+      "cumulativeInfections": 176
+    },
+    {
+      "date": "2020-02-15",
+      "newInfections": 16,
+      "cumulativeInfections": 192
+    },
+    {
+      "date": "2020-02-16",
+      "newInfections": 16,
+      "cumulativeInfections": 208
+    },
+    {
+      "date": "2020-02-17",
+      "newInfections": 16,
+      "cumulativeInfections": 224
+    },
+    {
+      "date": "2020-02-18",
+      "newInfections": 16,
+      "cumulativeInfections": 240
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 16,
+      "cumulativeInfections": 256
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 16,
+      "cumulativeInfections": 272
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 16,
+      "cumulativeInfections": 288
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 16,
+      "cumulativeInfections": 304
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 16,
+      "cumulativeInfections": 320
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 16,
+      "cumulativeInfections": 336
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 16,
+      "cumulativeInfections": 352
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 16,
+      "cumulativeInfections": 368
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 16,
+      "cumulativeInfections": 384
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 16,
+      "cumulativeInfections": 400
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 16,
+      "cumulativeInfections": 416
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 16,
+      "cumulativeInfections": 432
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 16,
+      "cumulativeInfections": 448
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 16,
+      "cumulativeInfections": 464
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 16,
+      "cumulativeInfections": 480
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 16,
+      "cumulativeInfections": 496
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 16,
+      "cumulativeInfections": 512
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 18,
+      "cumulativeInfections": 530
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 30,
+      "cumulativeInfections": 560
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 30,
+      "cumulativeInfections": 590
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 31,
+      "cumulativeInfections": 621
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 38,
+      "cumulativeInfections": 659
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 39,
+      "cumulativeInfections": 698
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 47,
+      "cumulativeInfections": 745
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 53,
+      "cumulativeInfections": 798
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 56,
+      "cumulativeInfections": 854
+    }
+  ],
+  "Russia": [
+    {
+      "date": "2020-03-07",
+      "newInfections": 13,
+      "cumulativeInfections": 101
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 17,
+      "cumulativeInfections": 118
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 17,
+      "cumulativeInfections": 135
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 20,
+      "cumulativeInfections": 155
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 20,
+      "cumulativeInfections": 175
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 28,
+      "cumulativeInfections": 203
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 45,
+      "cumulativeInfections": 248
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 59,
+      "cumulativeInfections": 307
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 63,
+      "cumulativeInfections": 370
+    }
+  ],
+  "United Kingdom": [
+    {
+      "date": "2020-02-18",
+      "newInfections": 9,
+      "cumulativeInfections": 102
+    },
+    {
+      "date": "2020-02-19",
+      "newInfections": 9,
+      "cumulativeInfections": 111
+    },
+    {
+      "date": "2020-02-20",
+      "newInfections": 9,
+      "cumulativeInfections": 120
+    },
+    {
+      "date": "2020-02-21",
+      "newInfections": 9,
+      "cumulativeInfections": 129
+    },
+    {
+      "date": "2020-02-22",
+      "newInfections": 9,
+      "cumulativeInfections": 138
+    },
+    {
+      "date": "2020-02-23",
+      "newInfections": 9,
+      "cumulativeInfections": 147
+    },
+    {
+      "date": "2020-02-24",
+      "newInfections": 13,
+      "cumulativeInfections": 160
+    },
+    {
+      "date": "2020-02-25",
+      "newInfections": 13,
+      "cumulativeInfections": 173
+    },
+    {
+      "date": "2020-02-26",
+      "newInfections": 13,
+      "cumulativeInfections": 186
+    },
+    {
+      "date": "2020-02-27",
+      "newInfections": 15,
+      "cumulativeInfections": 201
+    },
+    {
+      "date": "2020-02-28",
+      "newInfections": 20,
+      "cumulativeInfections": 221
+    },
+    {
+      "date": "2020-02-29",
+      "newInfections": 23,
+      "cumulativeInfections": 244
+    },
+    {
+      "date": "2020-03-01",
+      "newInfections": 36,
+      "cumulativeInfections": 280
+    },
+    {
+      "date": "2020-03-02",
+      "newInfections": 40,
+      "cumulativeInfections": 320
+    },
+    {
+      "date": "2020-03-03",
+      "newInfections": 51,
+      "cumulativeInfections": 371
+    },
+    {
+      "date": "2020-03-04",
+      "newInfections": 86,
+      "cumulativeInfections": 457
+    },
+    {
+      "date": "2020-03-05",
+      "newInfections": 116,
+      "cumulativeInfections": 573
+    },
+    {
+      "date": "2020-03-06",
+      "newInfections": 164,
+      "cumulativeInfections": 737
+    },
+    {
+      "date": "2020-03-07",
+      "newInfections": 207,
+      "cumulativeInfections": 944
+    },
+    {
+      "date": "2020-03-08",
+      "newInfections": 274,
+      "cumulativeInfections": 1218
+    },
+    {
+      "date": "2020-03-09",
+      "newInfections": 322,
+      "cumulativeInfections": 1540
+    },
+    {
+      "date": "2020-03-10",
+      "newInfections": 384,
+      "cumulativeInfections": 1924
+    },
+    {
+      "date": "2020-03-11",
+      "newInfections": 459,
+      "cumulativeInfections": 2383
+    },
+    {
+      "date": "2020-03-12",
+      "newInfections": 459,
+      "cumulativeInfections": 2842
+    },
+    {
+      "date": "2020-03-13",
+      "newInfections": 801,
+      "cumulativeInfections": 3643
+    },
+    {
+      "date": "2020-03-14",
+      "newInfections": 1143,
+      "cumulativeInfections": 4786
+    },
+    {
+      "date": "2020-03-15",
+      "newInfections": 1144,
+      "cumulativeInfections": 5930
+    }
+  ]
+}
